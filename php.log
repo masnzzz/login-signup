@@ -1,0 +1,1098 @@
+[18-Aug-2019 04:15:43 UTC] PHP Warning:  require(head.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/intern/info/signup.php on line 23
+[18-Aug-2019 04:15:43 UTC] PHP Fatal error:  require(): Failed opening required 'head.php' (include_path='.:/Applications/MAMP/bin/php/php7.2.10/lib/php') in /Applications/MAMP/htdocs/intern/info/signup.php on line 23
+[18-Aug-2019 11:21:13 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 54
+[18-Aug-2019 14:25:49 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 86
+[18-Aug-2019 14:26:31 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:26:33 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:28:25 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:31:45 UTC] PHP Notice:  Undefined variable: dbn in /Applications/MAMP/htdocs/intern/info/function.php on line 162
+[18-Aug-2019 14:31:45 UTC] PHP Notice:  Undefined variable: E in /Applications/MAMP/htdocs/intern/info/function.php on line 138
+[18-Aug-2019 14:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in /Applications/MAMP/htdocs/intern/info/function.php:138
+Stack trace:
+#0 /Applications/MAMP/htdocs/intern/info/signup.php(19): validEmailDup('no')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/intern/info/function.php on line 138
+[18-Aug-2019 14:33:23 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:33:25 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:33:28 UTC] PHP Notice:  Undefined variable: dbn in /Applications/MAMP/htdocs/intern/info/function.php on line 162
+[18-Aug-2019 14:33:28 UTC] PHP Notice:  Undefined variable: E in /Applications/MAMP/htdocs/intern/info/function.php on line 138
+[18-Aug-2019 14:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in /Applications/MAMP/htdocs/intern/info/function.php:138
+Stack trace:
+#0 /Applications/MAMP/htdocs/intern/info/signup.php(19): validEmailDup('dfa')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/intern/info/function.php on line 138
+[18-Aug-2019 14:35:51 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:35:54 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:38:47 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 91
+[18-Aug-2019 14:39:26 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:39:40 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:39:41 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:40:23 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:40:26 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:40:29 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:40:51 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:40:59 UTC] PHP Notice:  Undefined variable: dbn in /Applications/MAMP/htdocs/intern/info/function.php on line 162
+[18-Aug-2019 14:40:59 UTC] エラー発生:invalid data source name
+[18-Aug-2019 14:40:59 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:44:09 UTC] PHP Notice:  Undefined variable: dbn in /Applications/MAMP/htdocs/intern/info/function.php on line 162
+[18-Aug-2019 14:44:09 UTC] エラー発生:invalid data source name
+[18-Aug-2019 14:44:09 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:51:50 UTC] PHP Notice:  Undefined variable: dbn in /Applications/MAMP/htdocs/intern/info/function.php on line 162
+[18-Aug-2019 14:51:50 UTC] エラー発生:invalid data source name
+[18-Aug-2019 14:51:50 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:51:51 UTC] PHP Notice:  Undefined variable: dbn in /Applications/MAMP/htdocs/intern/info/function.php on line 162
+[18-Aug-2019 14:51:51 UTC] エラー発生:invalid data source name
+[18-Aug-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:53:18 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:53:36 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:53:39 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 14:59:46 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[18-Aug-2019 15:01:00 UTC] PHP Notice:  Undefined index: common in /Applications/MAMP/htdocs/intern/info/signup.php on line 7
+[18-Aug-2019 15:01:00 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 95
+[18-Aug-2019 16:20:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[18-Aug-2019 16:20:24 UTC] デバッグ：「　マイページ　
+[18-Aug-2019 16:20:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[18-Aug-2019 16:20:24 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[18-Aug-2019 16:20:24 UTC] デバッグ：セッションID：2s3e9p5q012ggvl0ueu5291d4d
+[18-Aug-2019 16:20:24 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[18-Aug-2019 16:20:24 UTC] デバッグ：現在日時タイムスタンプ：1566145224
+[18-Aug-2019 16:20:24 UTC] デバッグ：未ログインユーザーです
+[18-Aug-2019 16:20:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[18-Aug-2019 16:20:24 UTC] デバッグ：「　ログインページ　
+[18-Aug-2019 16:20:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[18-Aug-2019 16:20:24 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[18-Aug-2019 16:20:24 UTC] デバッグ：セッションID：du45u0ep2ku6b7lfjsg0bfp9hj
+[18-Aug-2019 16:20:24 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[18-Aug-2019 16:20:24 UTC] デバッグ：現在日時タイムスタンプ：1566145224
+[18-Aug-2019 16:20:24 UTC] デバッグ：未ログインユーザーです
+[18-Aug-2019 16:20:24 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 66
+[19-Aug-2019 05:56:38 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 05:56:38 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 05:56:38 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 05:56:38 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 05:56:38 UTC] デバッグ：セッションID：2g6kdcs8ebcg54oo64qfe5m6jv
+[19-Aug-2019 05:56:38 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 05:56:38 UTC] デバッグ：現在日時タイムスタンプ：1566194198
+[19-Aug-2019 05:56:38 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 05:56:38 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 134
+[19-Aug-2019 05:58:03 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 05:58:03 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 05:58:03 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 05:58:03 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 05:58:03 UTC] デバッグ：セッションID：6fgipl5v69s3gb7dvdh7cbvc4s
+[19-Aug-2019 05:58:03 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 05:58:03 UTC] デバッグ：現在日時タイムスタンプ：1566194283
+[19-Aug-2019 05:58:03 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 05:58:03 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 05:58:03 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 134
+[19-Aug-2019 06:00:04 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:00:04 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:00:04 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:00:04 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:00:04 UTC] デバッグ：セッションID：julj01e2vmm3chk0n2pgdarc8j
+[19-Aug-2019 06:00:04 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:00:04 UTC] デバッグ：現在日時タイムスタンプ：1566194404
+[19-Aug-2019 06:00:04 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:00:04 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:00:04 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:00:15 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:00:15 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:00:15 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:00:15 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:00:15 UTC] デバッグ：セッションID：kna62ubvvtmev3k9t2j06lb7ug
+[19-Aug-2019 06:00:15 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:00:15 UTC] デバッグ：現在日時タイムスタンプ：1566194415
+[19-Aug-2019 06:00:15 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:00:15 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:00:15 UTC] デバッグ：バリデーションOKです
+[19-Aug-2019 06:00:15 UTC] デバッグ：クエリ実行の中身:Array
+(
+    [pass] => $2y$10$h.Y8KHdloAcykDZTdIGBu./7o2DaK9OI2xeY.sHWeoofydOvnLFEO
+    [id] => 1
+)
+
+[19-Aug-2019 06:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function password_varify() in /Applications/MAMP/htdocs/intern/info/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/intern/info/login.php on line 54
+[19-Aug-2019 06:00:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:00:17 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:00:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:00:17 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:00:17 UTC] デバッグ：セッションID：s3rgsc6ttjvdbgbj67do2rerrl
+[19-Aug-2019 06:00:17 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:00:17 UTC] デバッグ：現在日時タイムスタンプ：1566194417
+[19-Aug-2019 06:00:17 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:00:17 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:00:17 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:02:11 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:11 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:02:11 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:11 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:11 UTC] デバッグ：セッションID：rb75rn3o4mji3ifruajku8r33g
+[19-Aug-2019 06:02:11 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:02:11 UTC] デバッグ：現在日時タイムスタンプ：1566194531
+[19-Aug-2019 06:02:11 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:02:11 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:02:11 UTC] デバッグ：バリデーションOKです
+[19-Aug-2019 06:02:11 UTC] デバッグ：クエリ実行の中身:Array
+(
+    [pass] => $2y$10$h.Y8KHdloAcykDZTdIGBu./7o2DaK9OI2xeY.sHWeoofydOvnLFEO
+    [id] => 1
+)
+
+[19-Aug-2019 06:02:11 UTC] デバッグ：パスワードがマッチしました
+[19-Aug-2019 06:02:11 UTC] デバッグ：ログイン保持にチェックはありません
+[19-Aug-2019 06:02:11 UTC] デバッグ：セッション変数の中身:Array
+(
+    [login_date] => 1566194531
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:11 UTC] デバッグ：マイページへ遷移します
+[19-Aug-2019 06:02:11 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:02:11 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:02:11 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:11 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:02:11 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:11 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:11 UTC] デバッグ：セッションID：mvh68ta2sp400l957nd3stlr0i
+[19-Aug-2019 06:02:11 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194531
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:11 UTC] デバッグ：現在日時タイムスタンプ：1566194531
+[19-Aug-2019 06:02:11 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198131
+[19-Aug-2019 06:02:11 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:02:11 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:02:13 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:13 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:02:13 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:13 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:13 UTC] デバッグ：セッションID：1sniu06a43nraehk9t7kj8hk01
+[19-Aug-2019 06:02:13 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194531
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:13 UTC] デバッグ：現在日時タイムスタンプ：1566194533
+[19-Aug-2019 06:02:13 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198131
+[19-Aug-2019 06:02:13 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:02:13 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:02:13 UTC] デバッグ：マイページへ遷移します
+[19-Aug-2019 06:02:13 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:02:13 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:02:16 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:16 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:02:16 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:16 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:16 UTC] デバッグ：セッションID：d2li5c0gdh42o0tvk31uv5tv0u
+[19-Aug-2019 06:02:16 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194533
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:16 UTC] デバッグ：現在日時タイムスタンプ：1566194536
+[19-Aug-2019 06:02:16 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198133
+[19-Aug-2019 06:02:16 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:02:16 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:02:42 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:42 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:02:42 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:42 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:42 UTC] デバッグ：セッションID：i29umfq2ektadp2qoc0ruvoq9t
+[19-Aug-2019 06:02:42 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194536
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:42 UTC] デバッグ：現在日時タイムスタンプ：1566194562
+[19-Aug-2019 06:02:42 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198136
+[19-Aug-2019 06:02:42 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:02:42 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:02:43 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:43 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:02:43 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:43 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:43 UTC] デバッグ：セッションID：mopngs9kki1csha01dcb43klkq
+[19-Aug-2019 06:02:43 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194562
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:43 UTC] デバッグ：現在日時タイムスタンプ：1566194563
+[19-Aug-2019 06:02:43 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198162
+[19-Aug-2019 06:02:43 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:02:43 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:02:43 UTC] デバッグ：indexへ遷移します
+[19-Aug-2019 06:02:43 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:02:43 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:02:43 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:43 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:02:43 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:02:43 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:02:43 UTC] デバッグ：セッションID：ddu6vlvca0e1orp71tqff7rjlk
+[19-Aug-2019 06:02:43 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194563
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:02:43 UTC] デバッグ：現在日時タイムスタンプ：1566194563
+[19-Aug-2019 06:02:43 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198163
+[19-Aug-2019 06:02:43 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:02:43 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:02:47 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[19-Aug-2019 06:03:45 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[19-Aug-2019 06:04:30 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[19-Aug-2019 06:04:31 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:31 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:04:31 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:31 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:04:31 UTC] デバッグ：セッションID：edcq9mmus3r6fmh8tggdvso9f8
+[19-Aug-2019 06:04:31 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194563
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:04:31 UTC] デバッグ：現在日時タイムスタンプ：1566194671
+[19-Aug-2019 06:04:31 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198163
+[19-Aug-2019 06:04:31 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:04:31 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:04:31 UTC] デバッグ：indexへ遷移します
+[19-Aug-2019 06:04:31 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:04:31 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:04:31 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:31 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:04:31 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:31 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:04:31 UTC] デバッグ：セッションID：3g9le3nv64ml3ni1nn4bh2n48c
+[19-Aug-2019 06:04:31 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194671
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:04:31 UTC] デバッグ：現在日時タイムスタンプ：1566194671
+[19-Aug-2019 06:04:31 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198271
+[19-Aug-2019 06:04:31 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:04:31 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:04:33 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:33 UTC] デバッグ：「　ログアウトページ　
+[19-Aug-2019 06:04:33 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:33 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:04:33 UTC] デバッグ：セッションID：qpbgf3tp7d8s9o2ufb1teqams6
+[19-Aug-2019 06:04:33 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194671
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:04:33 UTC] デバッグ：現在日時タイムスタンプ：1566194673
+[19-Aug-2019 06:04:33 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198271
+[19-Aug-2019 06:04:33 UTC] デバッグ：ログアウトします
+[19-Aug-2019 06:04:33 UTC] デバッグ：ログインページへ遷移します
+[19-Aug-2019 06:04:33 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:33 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:04:33 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:04:33 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:04:33 UTC] デバッグ：セッションID：50mtp6j167tli593eh000bidno
+[19-Aug-2019 06:04:33 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:04:33 UTC] デバッグ：現在日時タイムスタンプ：1566194673
+[19-Aug-2019 06:04:33 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:04:33 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:04:33 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:05:01 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:01 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:05:01 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:01 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:05:01 UTC] デバッグ：セッションID：koihb5h758oroujk1hmv79gpb5
+[19-Aug-2019 06:05:01 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:05:01 UTC] デバッグ：現在日時タイムスタンプ：1566194701
+[19-Aug-2019 06:05:01 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:05:01 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:05:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:05:04 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 94
+[19-Aug-2019 06:05:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:05 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:05:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:05 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:05:05 UTC] デバッグ：セッションID：20fl4np9pm8urf4k6em9du56om
+[19-Aug-2019 06:05:05 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:05:05 UTC] デバッグ：現在日時タイムスタンプ：1566194705
+[19-Aug-2019 06:05:05 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:05:05 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:05:05 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:05:13 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:13 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:05:13 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:13 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:05:13 UTC] デバッグ：セッションID：j41gj1gdia8dhi4eua793i8is8
+[19-Aug-2019 06:05:13 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:05:13 UTC] デバッグ：現在日時タイムスタンプ：1566194713
+[19-Aug-2019 06:05:13 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:05:13 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:05:13 UTC] デバッグ：バリデーションOKです
+[19-Aug-2019 06:05:13 UTC] デバッグ：クエリ実行の中身:Array
+(
+    [pass] => $2y$10$h.Y8KHdloAcykDZTdIGBu./7o2DaK9OI2xeY.sHWeoofydOvnLFEO
+    [id] => 1
+)
+
+[19-Aug-2019 06:05:14 UTC] デバッグ：パスワードがマッチしました
+[19-Aug-2019 06:05:14 UTC] デバッグ：ログイン保持にチェックはありません
+[19-Aug-2019 06:05:14 UTC] デバッグ：セッション変数の中身:Array
+(
+    [login_date] => 1566194714
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:05:14 UTC] デバッグ：マイページへ遷移します
+[19-Aug-2019 06:05:14 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:05:14 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 131
+[19-Aug-2019 06:05:14 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:14 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:05:14 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:05:14 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:05:14 UTC] デバッグ：セッションID：al75ti600mlia31obob66gfo1n
+[19-Aug-2019 06:05:14 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194714
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:05:14 UTC] デバッグ：現在日時タイムスタンプ：1566194714
+[19-Aug-2019 06:05:14 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198314
+[19-Aug-2019 06:05:14 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:05:14 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:08:20 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:20 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:08:20 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:20 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:08:20 UTC] デバッグ：セッションID：d6486tivh11ufc4lrj46ouocrt
+[19-Aug-2019 06:08:20 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194714
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:08:20 UTC] デバッグ：現在日時タイムスタンプ：1566194900
+[19-Aug-2019 06:08:20 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198314
+[19-Aug-2019 06:08:20 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:08:20 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:08:21 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 77
+[19-Aug-2019 06:08:23 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:23 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:08:23 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:23 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:08:23 UTC] デバッグ：セッションID：n5h11r6sp8br54dvlbdpt6qt3s
+[19-Aug-2019 06:08:23 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194900
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:08:23 UTC] デバッグ：現在日時タイムスタンプ：1566194903
+[19-Aug-2019 06:08:23 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198500
+[19-Aug-2019 06:08:23 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:08:23 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:08:23 UTC] デバッグ：indexへ遷移します
+[19-Aug-2019 06:08:23 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:08:23 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 117
+[19-Aug-2019 06:08:23 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:23 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:08:23 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:23 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:08:23 UTC] デバッグ：セッションID：ot7aei5gfq0fsn33u3btiej8j1
+[19-Aug-2019 06:08:23 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194903
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:08:23 UTC] デバッグ：現在日時タイムスタンプ：1566194903
+[19-Aug-2019 06:08:23 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198503
+[19-Aug-2019 06:08:23 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:08:23 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:08:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:24 UTC] デバッグ：「　ログアウトページ　
+[19-Aug-2019 06:08:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:24 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:08:24 UTC] デバッグ：セッションID：qatn1s0d9f1h98drjtbro8k7ou
+[19-Aug-2019 06:08:24 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566194903
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:08:24 UTC] デバッグ：現在日時タイムスタンプ：1566194904
+[19-Aug-2019 06:08:24 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566198503
+[19-Aug-2019 06:08:24 UTC] デバッグ：ログアウトします
+[19-Aug-2019 06:08:24 UTC] デバッグ：ログインページへ遷移します
+[19-Aug-2019 06:08:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:24 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:08:24 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:08:24 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:08:24 UTC] デバッグ：セッションID：2cij9kaess0atfpm0tajr8sfro
+[19-Aug-2019 06:08:24 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:08:24 UTC] デバッグ：現在日時タイムスタンプ：1566194904
+[19-Aug-2019 06:08:24 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:08:24 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:08:24 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 117
+[19-Aug-2019 06:11:55 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:11:55 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:11:55 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:11:55 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:11:55 UTC] デバッグ：セッションID：nu6hgbu56ss7j3dd2duimpkm9i
+[19-Aug-2019 06:11:55 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:11:55 UTC] デバッグ：現在日時タイムスタンプ：1566195115
+[19-Aug-2019 06:11:55 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:11:55 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:11:55 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 114
+[19-Aug-2019 06:11:56 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:11:56 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:11:56 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:11:56 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:11:56 UTC] デバッグ：セッションID：98288s0nh6882g396ddcelircs
+[19-Aug-2019 06:11:56 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:11:56 UTC] デバッグ：現在日時タイムスタンプ：1566195116
+[19-Aug-2019 06:11:56 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:11:56 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:11:56 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 114
+[19-Aug-2019 06:11:59 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 76
+[19-Aug-2019 06:12:00 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:12:00 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:12:00 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:12:00 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:12:00 UTC] デバッグ：セッションID：benhupcbrhufs7v3ii5f3rteb5
+[19-Aug-2019 06:12:00 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:12:00 UTC] デバッグ：現在日時タイムスタンプ：1566195120
+[19-Aug-2019 06:12:00 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:12:00 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:12:00 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 114
+[19-Aug-2019 06:12:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 76
+[19-Aug-2019 06:12:01 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:12:01 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:12:01 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:12:01 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:12:01 UTC] デバッグ：セッションID：p6enbbeqkm2qs0ee8f4men3jk6
+[19-Aug-2019 06:12:01 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:12:01 UTC] デバッグ：現在日時タイムスタンプ：1566195121
+[19-Aug-2019 06:12:01 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:12:01 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:12:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 114
+[19-Aug-2019 06:16:34 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:16:34 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:16:34 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:16:34 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:16:34 UTC] デバッグ：セッションID：8s3hfecpjd7c1lrkra71bjorsb
+[19-Aug-2019 06:16:34 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:16:34 UTC] デバッグ：現在日時タイムスタンプ：1566195394
+[19-Aug-2019 06:16:34 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:16:34 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:16:34 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:16:36 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:26:14 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:26:20 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:26:20 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:26:20 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:26:20 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:26:20 UTC] デバッグ：セッションID：t3hga6tpus8jfbdo9bjri4d1m7
+[19-Aug-2019 06:26:20 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:26:20 UTC] デバッグ：現在日時タイムスタンプ：1566195980
+[19-Aug-2019 06:26:20 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:26:20 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:26:20 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:26:22 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:26:23 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:27:15 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:27:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:27:17 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:27:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:27:17 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:27:17 UTC] デバッグ：セッションID：p453ag0l054nmgv1n6n85dp9jl
+[19-Aug-2019 06:27:17 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:27:17 UTC] デバッグ：現在日時タイムスタンプ：1566196037
+[19-Aug-2019 06:27:17 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:27:17 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:27:17 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:27:20 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:27:20 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:27:20 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:27:20 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:27:20 UTC] デバッグ：セッションID：t4j1qbkljbrb4e6askbr68u9mb
+[19-Aug-2019 06:27:20 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:27:20 UTC] デバッグ：現在日時タイムスタンプ：1566196040
+[19-Aug-2019 06:27:20 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:27:20 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:27:20 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:27:20 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:29:10 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:29:10 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:29:10 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:29:10 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:29:10 UTC] デバッグ：セッションID：rchkmgi0693gnu0e2tf509fq30
+[19-Aug-2019 06:29:10 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:29:10 UTC] デバッグ：現在日時タイムスタンプ：1566196150
+[19-Aug-2019 06:29:10 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:29:10 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:29:10 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:29:10 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:29:11 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:29:11 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:29:11 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:29:11 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:29:11 UTC] デバッグ：セッションID：rfg4sdjutk3ienkvs6rt7tt3g3
+[19-Aug-2019 06:29:11 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:29:11 UTC] デバッグ：現在日時タイムスタンプ：1566196151
+[19-Aug-2019 06:29:11 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:29:11 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:29:11 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:29:11 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:29:13 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:29:13 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:29:13 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:29:13 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:29:13 UTC] デバッグ：セッションID：d6848ql9nn895uc606jcq6nvgl
+[19-Aug-2019 06:29:13 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:29:13 UTC] デバッグ：現在日時タイムスタンプ：1566196153
+[19-Aug-2019 06:29:13 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:29:13 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:29:13 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:29:13 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:29:24 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:29:26 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:29:58 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:30:12 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:30:21 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:30:42 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:31:00 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:31:06 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:31:12 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:31:42 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:31:42 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:31:42 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:31:42 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:31:42 UTC] デバッグ：セッションID：hjttllg2hvc52227g9dptvoh7s
+[19-Aug-2019 06:31:42 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:31:42 UTC] デバッグ：現在日時タイムスタンプ：1566196302
+[19-Aug-2019 06:31:42 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:31:42 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:31:42 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:32:50 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:50 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:32:50 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:50 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:32:50 UTC] デバッグ：セッションID：jbn9d2jishm5bu8o02t6gq4ofg
+[19-Aug-2019 06:32:50 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:32:50 UTC] デバッグ：現在日時タイムスタンプ：1566196370
+[19-Aug-2019 06:32:50 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:32:50 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:32:50 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:32:52 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:32:53 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:53 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:32:53 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:53 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:32:53 UTC] デバッグ：セッションID：s2ccu0rtkepktc3v8lm3ir53sb
+[19-Aug-2019 06:32:53 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:32:53 UTC] デバッグ：現在日時タイムスタンプ：1566196373
+[19-Aug-2019 06:32:53 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:32:53 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:32:53 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:32:53 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:32:54 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:54 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:32:54 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:54 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:32:54 UTC] デバッグ：セッションID：qb3l0edbaer8e6l27bgho4hdmb
+[19-Aug-2019 06:32:54 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:32:54 UTC] デバッグ：現在日時タイムスタンプ：1566196374
+[19-Aug-2019 06:32:54 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:32:54 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:32:54 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:32:55 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:32:57 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:57 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:32:57 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:32:57 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:32:57 UTC] デバッグ：セッションID：gbckvkkq754rbgvquou756meue
+[19-Aug-2019 06:32:57 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:32:57 UTC] デバッグ：現在日時タイムスタンプ：1566196377
+[19-Aug-2019 06:32:57 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:32:57 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:32:57 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:32:59 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:33:45 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:33:57 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:33:57 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:33:57 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:33:57 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:33:57 UTC] デバッグ：セッションID：hiu99vgcsk8t7jgb1lhpk0ftj6
+[19-Aug-2019 06:33:57 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:33:57 UTC] デバッグ：現在日時タイムスタンプ：1566196437
+[19-Aug-2019 06:33:57 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:33:57 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:33:57 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:33:59 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:34:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:34:05 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:34:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:34:05 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:34:05 UTC] デバッグ：セッションID：g50804p42fua8pivstgqmnce20
+[19-Aug-2019 06:34:05 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:34:05 UTC] デバッグ：現在日時タイムスタンプ：1566196445
+[19-Aug-2019 06:34:05 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:34:05 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:34:05 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:36:03 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:36:03 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:36:03 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:36:03 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:36:03 UTC] デバッグ：セッションID：hh6llq1h127h94tg58lmjsg5ri
+[19-Aug-2019 06:36:03 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:36:03 UTC] デバッグ：現在日時タイムスタンプ：1566196563
+[19-Aug-2019 06:36:03 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:36:03 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:36:03 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:36:03 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:37:34 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:37:34 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:37:34 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:37:34 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:37:34 UTC] デバッグ：セッションID：2mji28vl3fk8ffoi2b0rfals4s
+[19-Aug-2019 06:37:34 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:37:34 UTC] デバッグ：現在日時タイムスタンプ：1566196654
+[19-Aug-2019 06:37:34 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:37:34 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:37:34 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:37:34 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:37:36 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:37:36 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:37:36 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:37:36 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:37:36 UTC] デバッグ：セッションID：k7t6ccaph4m0bptrdrkdhptmj2
+[19-Aug-2019 06:37:36 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:37:36 UTC] デバッグ：現在日時タイムスタンプ：1566196656
+[19-Aug-2019 06:37:36 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:37:36 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:37:36 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:37:36 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:37:39 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:37:46 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:37:46 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:37:46 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:37:46 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:37:46 UTC] デバッグ：セッションID：tnkbh8pjj0hpcs0qulmknnskrl
+[19-Aug-2019 06:37:46 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:37:46 UTC] デバッグ：現在日時タイムスタンプ：1566196666
+[19-Aug-2019 06:37:46 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:37:46 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:37:46 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:38:39 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:38:39 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:38:39 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:38:39 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:38:39 UTC] デバッグ：セッションID：6gn4c5rlqcggdu7fvsevsdu525
+[19-Aug-2019 06:38:39 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:38:39 UTC] デバッグ：現在日時タイムスタンプ：1566196719
+[19-Aug-2019 06:38:39 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:38:39 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:38:39 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:38:40 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:38:41 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:38:41 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:38:41 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:38:41 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:38:41 UTC] デバッグ：セッションID：ma3qjjffpijdjfunv7349hl8ql
+[19-Aug-2019 06:38:41 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:38:41 UTC] デバッグ：現在日時タイムスタンプ：1566196721
+[19-Aug-2019 06:38:42 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:38:42 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:38:42 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:38:43 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:39:06 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:39:07 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:39:08 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:39:08 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:39:08 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:39:08 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:39:08 UTC] デバッグ：セッションID：6thehlgpn4linlujt81bgfom3e
+[19-Aug-2019 06:39:08 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:39:08 UTC] デバッグ：現在日時タイムスタンプ：1566196748
+[19-Aug-2019 06:39:08 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:39:08 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:39:08 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:39:54 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:39:54 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:39:54 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:39:54 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:39:54 UTC] デバッグ：セッションID：glbs5clbgg466vc84c94snhb81
+[19-Aug-2019 06:39:54 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:39:54 UTC] デバッグ：現在日時タイムスタンプ：1566196794
+[19-Aug-2019 06:39:54 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:39:54 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:39:54 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:39:58 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:40:01 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:01 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:40:01 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:01 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:40:01 UTC] デバッグ：セッションID：gc2vmnn0sa71s7sc907ev71l6c
+[19-Aug-2019 06:40:01 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:40:01 UTC] デバッグ：現在日時タイムスタンプ：1566196801
+[19-Aug-2019 06:40:01 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:40:01 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:40:01 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:40:35 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:35 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:40:35 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:35 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:40:35 UTC] デバッグ：セッションID：rbsotbhm928dv5qd90909mlf87
+[19-Aug-2019 06:40:35 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:40:35 UTC] デバッグ：現在日時タイムスタンプ：1566196835
+[19-Aug-2019 06:40:35 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:40:35 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:40:35 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:40:35 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:40:37 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:40:38 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 87
+[19-Aug-2019 06:40:46 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:46 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:40:46 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:46 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:40:46 UTC] デバッグ：セッションID：utjoqhgeq6g369tr0s4i1abs8h
+[19-Aug-2019 06:40:46 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:40:46 UTC] デバッグ：現在日時タイムスタンプ：1566196846
+[19-Aug-2019 06:40:46 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:40:46 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:40:46 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:40:53 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:53 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:40:53 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:53 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:40:53 UTC] デバッグ：セッションID：hq48sf2arh4miurutp8n8bu5fp
+[19-Aug-2019 06:40:53 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:40:53 UTC] デバッグ：現在日時タイムスタンプ：1566196853
+[19-Aug-2019 06:40:53 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:40:53 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:40:53 UTC] デバッグ：バリデーションOKです
+[19-Aug-2019 06:40:53 UTC] デバッグ：クエリ実行の中身:Array
+(
+    [pass] => $2y$10$h.Y8KHdloAcykDZTdIGBu./7o2DaK9OI2xeY.sHWeoofydOvnLFEO
+    [id] => 1
+)
+
+[19-Aug-2019 06:40:53 UTC] デバッグ：パスワードがマッチしました
+[19-Aug-2019 06:40:53 UTC] デバッグ：ログイン保持にチェックはありません
+[19-Aug-2019 06:40:53 UTC] デバッグ：セッション変数の中身:Array
+(
+    [login_date] => 1566196853
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:40:53 UTC] デバッグ：マイページへ遷移します
+[19-Aug-2019 06:40:53 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:40:53 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:40:53 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:53 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:40:53 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:40:53 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:40:53 UTC] デバッグ：セッションID：se0t81a3lb6v8sledpl0emqanh
+[19-Aug-2019 06:40:53 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566196853
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:40:53 UTC] デバッグ：現在日時タイムスタンプ：1566196853
+[19-Aug-2019 06:40:53 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566200453
+[19-Aug-2019 06:40:53 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:40:53 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:40:53 UTC] PHP Notice:  Undefined variable: siteTitle in /Applications/MAMP/htdocs/intern/info/head.php on line 6
+[19-Aug-2019 06:41:04 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:41:04 UTC] デバッグ：「　ログアウトページ　
+[19-Aug-2019 06:41:04 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:41:04 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:41:04 UTC] デバッグ：セッションID：c28sto46te4dc439u8sbafl2sc
+[19-Aug-2019 06:41:04 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566196853
+    [login_limit] => 3600
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:41:04 UTC] デバッグ：現在日時タイムスタンプ：1566196864
+[19-Aug-2019 06:41:04 UTC] デバッグ：ログイン期限日時タイムスタンプ：1566200453
+[19-Aug-2019 06:41:04 UTC] デバッグ：ログアウトします
+[19-Aug-2019 06:41:04 UTC] デバッグ：ログインページへ遷移します
+[19-Aug-2019 06:41:04 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:41:04 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:41:04 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:41:04 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:41:04 UTC] デバッグ：セッションID：lpsads9s7il9ceu8m9r1lm8rbc
+[19-Aug-2019 06:41:04 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:41:04 UTC] デバッグ：現在日時タイムスタンプ：1566196864
+[19-Aug-2019 06:41:04 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:41:04 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:41:04 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 113
+[19-Aug-2019 06:42:52 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:42:52 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:42:52 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:42:52 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:42:52 UTC] デバッグ：セッションID：8cgs6jn80o2v4r2pp6unf0ivde
+[19-Aug-2019 06:42:52 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:42:52 UTC] デバッグ：現在日時タイムスタンプ：1566196972
+[19-Aug-2019 06:42:52 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:42:52 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:42:52 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 112
+[19-Aug-2019 06:42:54 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/signup.php on line 86
+[19-Aug-2019 06:42:56 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:42:56 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:42:56 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:42:56 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:42:56 UTC] デバッグ：セッションID：k0co0kkirf6nuitlle5k9jl8jt
+[19-Aug-2019 06:42:56 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:42:56 UTC] デバッグ：現在日時タイムスタンプ：1566196976
+[19-Aug-2019 06:42:56 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:42:56 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:42:56 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 112
+[19-Aug-2019 06:43:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:05 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:43:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:05 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:43:05 UTC] デバッグ：セッションID：qp5upiuarsmt8bdqn1q2c7jq6g
+[19-Aug-2019 06:43:05 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:43:05 UTC] デバッグ：現在日時タイムスタンプ：1566196985
+[19-Aug-2019 06:43:05 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:43:05 UTC] デバッグ：POST送信があります
+[19-Aug-2019 06:43:05 UTC] デバッグ：バリデーションOKです
+[19-Aug-2019 06:43:05 UTC] デバッグ：クエリ実行の中身:Array
+(
+    [pass] => $2y$10$h.Y8KHdloAcykDZTdIGBu./7o2DaK9OI2xeY.sHWeoofydOvnLFEO
+    [id] => 1
+)
+
+[19-Aug-2019 06:43:05 UTC] デバッグ：パスワードがマッチしました
+[19-Aug-2019 06:43:05 UTC] デバッグ：ログイン保持にチェックがあります
+[19-Aug-2019 06:43:05 UTC] デバッグ：セッション変数の中身:Array
+(
+    [login_date] => 1566196985
+    [login_limit] => 2592000
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:43:05 UTC] デバッグ：マイページへ遷移します
+[19-Aug-2019 06:43:05 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:43:05 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 112
+[19-Aug-2019 06:43:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:05 UTC] デバッグ：「　マイページ　
+[19-Aug-2019 06:43:05 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:05 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:43:05 UTC] デバッグ：セッションID：pdg4t382610a13l7b4nofc9nsr
+[19-Aug-2019 06:43:05 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566196985
+    [login_limit] => 2592000
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:43:05 UTC] デバッグ：現在日時タイムスタンプ：1566196985
+[19-Aug-2019 06:43:05 UTC] デバッグ：ログイン期限日時タイムスタンプ：1568788985
+[19-Aug-2019 06:43:05 UTC] デバッグ：ログイン済みユーザーです
+[19-Aug-2019 06:43:05 UTC] デバッグ：ログイン有効期限以内です
+[19-Aug-2019 06:43:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:17 UTC] デバッグ：「　ログアウトページ　
+[19-Aug-2019 06:43:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:17 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:43:17 UTC] デバッグ：セッションID：h059murvc6fb4mq3vbbk4uhpkt
+[19-Aug-2019 06:43:17 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1566196985
+    [login_limit] => 2592000
+    [user_id] => 1
+)
+
+[19-Aug-2019 06:43:17 UTC] デバッグ：現在日時タイムスタンプ：1566196997
+[19-Aug-2019 06:43:17 UTC] デバッグ：ログイン期限日時タイムスタンプ：1568788985
+[19-Aug-2019 06:43:17 UTC] デバッグ：ログアウトします
+[19-Aug-2019 06:43:17 UTC] デバッグ：ログインページへ遷移します
+[19-Aug-2019 06:43:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:17 UTC] デバッグ：「　ログインページ　
+[19-Aug-2019 06:43:17 UTC] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[19-Aug-2019 06:43:17 UTC] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[19-Aug-2019 06:43:17 UTC] デバッグ：セッションID：60kjmsefns7kirbm316grhduhj
+[19-Aug-2019 06:43:17 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Aug-2019 06:43:17 UTC] デバッグ：現在日時タイムスタンプ：1566196997
+[19-Aug-2019 06:43:17 UTC] デバッグ：未ログインユーザーです
+[19-Aug-2019 06:43:17 UTC] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[19-Aug-2019 06:43:17 UTC] PHP Warning:  Use of undefined constant 　 - assumed '　' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/intern/info/login.php on line 112
