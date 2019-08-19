@@ -6,6 +6,7 @@ DBはMySQL
 
 -signup.php    新規登録機能
 -login.php     ログイン機能
+-logout.php    ログアウト機能
 -auth.php      このファイルを読み込むことで、ログインしていなければアクセスできずlogin.phpに自動的に遷移する
 -function.php  DB接続やバリデーション関数をまとめているファイル
 
