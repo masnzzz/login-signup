@@ -15,3 +15,21 @@ DBはMySQL
 -function.php  DB接続やバリデーション関数をまとめているファイル
 
 -index.php     ログインしていなければアクセス出来ないページ(auth.phpを読み込んでいるため)
+
+【DB構造】
+
+DBname = todo
+
+Table  = users
+
+-id (int)主キー AutoIncrement
+
+-email (varchara)
+
+-password (varchara)
+
+-login_time (datetime)
+
+-create_date (datetime)
+
+-delete_flg (int) デフォルト値:0
